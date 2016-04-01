@@ -9,5 +9,5 @@ Using laravel to build a simple social network, the purpose of the project is il
 5) image uploads
 
 
-All of these basic steps involve most of the core aspects of laravel to be exploited
+All of these basic steps involve most of the core aspects of laravel to be exploited.
 
